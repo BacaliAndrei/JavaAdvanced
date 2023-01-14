@@ -1,0 +1,3 @@
+Bucuresti,2000000,Micul Paris
+Paris,5000000,Original
+Cluj,1500000,Only place where you will find Manhatenstur
